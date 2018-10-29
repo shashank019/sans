@@ -1,0 +1,4 @@
+subtraction
+x=("enter the value of x")
+y=("enter the value of y")
+z=x-y
